@@ -1,0 +1,11 @@
+flask==3.0.0
+flask-socketio==5.3.6
+python-socketio==5.10.0
+python-engineio==4.8.1
+psutil==5.9.7
+GPUtil==1.4.0
+wmi==1.5.1
+pywin32==306
+reportlab==4.0.8
+matplotlib==3.8.2
+eventlet==0.34.2
